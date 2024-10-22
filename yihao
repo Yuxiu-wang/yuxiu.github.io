@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>1号店</title>
+		<link rel="stylesheet" type="text/css" href='css/css.css'/>
+	</head>
+	<body>
+		<!--顶部导航-->
+		<div class="top middle">
+			<div class="topLeft left">
+				Hi,请<a href="#">登录</a>/<a href="#">注册</a>
+			</div>
+			<div class="topRight right">
+				<ul>
+					<li><a href="#" class="topA">我的1号店</a></li>
+					<li>|</li>
+					<li><a href="#" class="topA">收藏夹</a></li>
+					<li>|</li>
+					<li><a href="#" class="topA"><img src="img/tel.png"/>掌上1号店</a></li>
+					<li>|</li>
+					<li class="topLi" >
+					    <a href="#" class="topA">客户服务</a>
+					    <p class="p">
+					       <a href="#">包裹跟踪</a><br />
+						   <a href="#">常见问题</a><br />
+						   <a href="#">在线投诉</a><br />
+						   <a href="#">配送范围</a>
+						</p>
+					</li>
+					<li>|</li>
+					<li><a href="#" class="topA">网站导航</a></li>
+					<li>|</li>
+					<li><a href="#" class="topA">关于我们</a></li>
+					<li>|</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<!--logo和搜索部分-->
+		<div class="logo middle">
+			<form>
+				<label>商品</label>
+				<input type="text" value="请输入关键字"/>
+				<button>搜索</button>
+				<ul>
+					<li><a href="#">毛巾</a></li>
+					<li><a href="#">卫生纸</a></li>
+					<li><a href="#">电池</a></li>
+					<li><a href="#">洗发露</a></li>
+					<li><a href="#">衣服</a></li>
+					<li><a href="#">鞋子</a></li>
+				</ul>
+			</form>
+		</div>
+		
+		
+		<!--导航菜单-->
+		<div class="nav middle">
+			<ul class="navUl">
+				<li class="navLi"><a href="#">所有商品分类</a></li>
+				<li><a href="#" class="navRed">首页</a></li>
+				<li><a href="#" class="navRed">自营</a></li>
+				<li><a href="#" class="navRed">1号团</a></li>
+				<li><a href="#" class="navBlack">1号商城</a></li>
+				<li><a href="#" class="navBlack">闪购</a></li>
+				<li><a href="#" class="navBlack">活色生鲜</a></li>
+				<li><a href="#" class="navBlack">医药</a></li>
+				<li><a href="#" class="navBlack">1号钱包</a></li>
+			</ul>
+		</div>
+		
+		
+		<!--中间焦点轮播图和右侧内容-->
+		<div class="banner">
+			<div class="banner1 middle">
+				<div class="bannerLeft left">
+					<ul>
+						<li><a href="#">进口食品</a>，<a href="#">生鲜</a><label></label></li><br />
+						<li><a href="#">食品</a>，<a href="#">饮料</a>，<a href="#">酒</a><label></label></li><br />
+						<li><a href="#">母婴</a>，<a href="#">玩具</a>，<a href="#">童装</a><label></label></li><br />
+						<li><a href="#">家居</a>，<a href="#">家庭清洁</a>，<a href="#">纸品</a><label></label></li><br />
+						<li><a href="#">美妆</a>，<a href="#">个人护理</a>，<a href="#">洗护</a><label></label></li><br />
+						<li><a href="#">女装</a>，<a href="#">内衣</a>，<a href="#">中老年</a><label></label></li><br />
+						<li><a href="#">鞋靴</a>，<a href="#">箱包</a>，<a href="#">腕表配饰</a><label></label></li><br />
+						<li><a href="#">男装</a>，<a href="#">户外</a>，<a href="#">户外健身</a><label></label></li><br />
+						<li><a href="#">手机</a>，<a href="#">数码</a>，<a href="#">电脑办公</a><label></label></li><br />
+						<li><a href="#">小家电</a>，<a href="#">大家电</a>，<a href="#">汽车</a><label></label></li><br />
+						<li><a href="#">保健滋补</a>，<a href="#">医药</a>，<a href="#">成人</a><label></label></li><br />
+						<li><a href="#">礼品</a>，<a href="#">卡</a>，<a href="#">旅游</a>，<a href="#">充值</a><label></label></li>
+					</ul>
+				</div>
+				<div class="bannerCenter left">
+					<div class="bannerCenter-B">
+						<ul>
+							<li class="bannerCenter-BLi"></li>
+							<li></li>
+							<li></li>
+							<li></li>
+							<li></li>
+					    </ul>
+					</div>
+				</div>
+				<div class="bannerRight left">
+					<div class="bannerRightTop">
+						<a href="#"><img src="img/1.jpg" /><br />&nbsp;0元试用</a>
+						<a href="#"><img src="img/2.jpg" /><br />会员俱乐部</a>
+						<a href="#"><img src="img/3.jpg" /><br />&nbsp;&nbsp;礼品卡</a>
+					</div>
+					<div class="bannerRightCenter">
+						<ul>
+							<li>【社区】当明星教你送七夕情人节礼!</li>
+							<li>【社区】全球口碑姨妈巾都在这了!</li>
+							<li>【促销】V3会员&nbsp;甜蜜&nbsp;免费领</li>
+						</ul>
+						<p class="bannerRightCenterP">
+						   <a href="#"><span>话费快充</span></a>
+						   <a href="#" class="bannerRightCenterPA">彩票</a>
+						   <a href="#" class="bannerRightCenterPA">网游卡点</a>
+						</p>
+					</div>
+					<div class="bannerRightButtom">
+						<p>
+							手机号码：<input type="text" /><br />
+						    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;面值：<input type="text" value="￥10"/><br />
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;售价: <span>￥10.14</span><br />
+						<button>立即充值</button>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<!--食品饮料和个护厨卫模块-->
+		<div class="food middle">
+			<div class="foodTop">
+				<div class="foodTopLeft">食品饮料</div>
+				<div class="foodTopRight">
+					<ul>
+						<li>咖啡</li>
+						<li>|</li>
+						<li>休闲零食</li>
+						<li>|</li>
+						<li>饼干糕点</li>
+						<li>|</li>
+						<li>啤酒</li>
+						<li>|</li>
+						<li>粮油米面</li>
+					</ul>
+				</div>
+			</div>
+			<div class="foodButtom">
+				<div class="foodButtom01">
+					<ul>
+						<li><a href="#">饼干糕点</a></li>
+						<li><a href="#">休闲零食</a></li>
+						<li><a href="#">饮料果汁</a></li>
+						<li><a href="#">牛奶乳品</a></li>
+						<li><a href="#">冲饮谷物</a></li>
+						<li><a href="#">营养保健</a></li>
+					</ul>
+					<p>
+						<span>banner</span><br />
+						banner
+						<img src="img/sec1.jpg" />
+					</p>
+				</div>
+				<div class="foodButtom02"></div>
+				<div class="foodButtom03">
+					<p class="PTop">
+						<span>吃货天堂</span><br />
+						满49减10
+						<img src="img/sec1-2.jpg"/>
+					</p>
+					<p class="PButtom">
+						<span>1号酒窖</span><br />
+						百威哈啤酒两件7折
+						<img src="img/sec1-3.jpg"/>
+					</p>
+				</div>
+				<div class="foodButtom04">
+					<p class="foodButtom04P">
+						<span>夏季美食嘉年华</span><br />
+						粮油1元抢；爆款5折起
+						<img src="img/sec1-4.jpg" />
+					</p>
+				</div>
+				<div class="foodButtom05">
+					<p class="PT">
+						<span>饮料饮品</span><br />
+						爆款满99减25
+						<img src="img/sec1-5.jpg"/>
+					</p>
+					<p class="PB">
+						<span>甜蜜蜜七夕好礼</span><br />
+						燕窝&nbsp;买一送一
+						<img src="img/sec1-6.jpg"/>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="kitchen middle">
+			<div class="kitchenTop">
+				<div class="kitchenTopLeft">个护厨卫</div>
+				<div class="kitchenTopRight">
+					<ul>
+						<li>面部防晒</li>
+						<li>|</li>
+						<li>沐浴清洁</li>
+						<li>|</li>
+						<li>纸巾</li>
+						<li>|</li>
+						<li>洗衣液</li>
+						<li>|</li>
+						<li>驱蚊神器</li>
+					</ul>
+				</div>
+			</div>
+			<div class="kitchenButtom">
+				<div class="kitchenButtom01">
+					<ul>
+						<li><a href="#">洗发护发</a></li>
+						<li><a href="#">脱毛膏/贴</a></li>
+						<li><a href="#">牙膏牙刷</a></li>
+						<li><a href="#">抽纸</a></li>
+						<li><a href="#">消毒液</a></li>
+						<li><a href="#">保鲜膜</a></li>
+					</ul>
+					<p class="center01">
+						<span>蓝月亮洁净盛典</span><br />
+						热销商品5折起
+						<img src="img/sec1-7.jpg"/>
+					</p>
+					<p class="buttom01">
+						<span>妮飘满99减25</span><br />
+						与你的浪漫七夕
+						<img src="img/sec1-17.jpg" />
+					</p>
+				</div>
+				<div class="kitchenButtom02">
+					<div class="kitchenButtom02T">
+						<div class="kitchenButtom02T-B">
+						<ul>
+							<li class="kitchenButtom02T-BLi"></li>
+							<li></li>
+							<li></li>
+					    </ul>
+					</div>
+					</div>
+					<div class="kitchenButtom02B">
+						<p class="p1">
+							<span>逼格生活由我打造</span><br />
+							新品上市<br />
+							<br />
+							<span class="span">品质生活轻松家务</span>
+						</p>
+						<p class="p2"><img src="img/sec1-16.jpg" /></p>
+					</div>
+				</div>
+				<div class="kitchenButtom03">
+					<p class="kTop">
+						<span>自营纸制品品牌团</span><br />
+					    团购疯抢中
+						<img src="img/sec1-9.jpg" />
+					</p>
+					<p class="KCenter">
+						<span>自营衣物洗护团</span><br />
+						爆款5折起
+						<img src="img/sec1-10.jpg" />
+					</p>
+					<p class="KButtom">
+						<span>自营家庭清洁品牌团</span><br />
+						爆款团购2.3折起
+						<img src="img/sec1-15.jpg"/>
+					</p>
+				</div>
+				<div class="kitchenButtom04">
+					<p class="KiTop">
+						<span>自营美容护理</span><br />
+						8.18爆款——贵就赔
+						<img src="img/sec1-11.jpg"/>
+					</p>
+					<p class="KiButtom">
+						<span>自营女性护理</span><br />
+						更多商品第二件2折
+						<img src="img/sec1-14.jpg"/>
+					</p>
+				</div>
+				<div class="kitchenButtom05">
+					<p class="kitTop">
+						<span>自营口腔护理</span><br />
+						更多商品第二件2折
+						<img src="img/sec1-12.jpg"/>
+					</p>
+					<p class="KitButtom">
+						<span>自营洗发护发</span><br />
+						更多商品第二件2折
+						<img src="img/sec1-13.jpg"/>
+					</p>
+				</div>
+			</div>
+		</div>
+		
+		
+		<!--网站版权-->
+		<div class="banquan middle">
+			<ul class="banquanU1">
+				<li><a href="#">关于1号店</a></li>
+				<li>|</li>
+				<li><a href="#">我们的团队</a></li>
+				<li>|</li>
+				<li><a href="#">网站联盟</a></li>
+				<li>|</li>
+				<li><a href="#">热门搜索</a></li>
+				<li>|</li>
+				<li><a href="#">友情链接</a></li>
+				<li>|</li>
+				<li><a href="#">1号店社区</a></li>
+				<li>|</li>
+				<li><a href="#">诚征英才</a></li>
+				<li>|</li>
+				<li><a href="#">商家登录</a></li>
+				<li>|</li>
+				<li><a href="#">供应商登录</a></li>
+				<li>|</li>
+				<li><a href="#">放心搜</a></li>
+				<li>|</li>
+				<li><a href="#">1号店新品</a></li>
+				<li>|</li>
+				<li><a href="#">开放平台</a></li>
+				<li>|</li>
+			</ul>
+			<ul class="banquanU2">
+				<li><a href="#">沪JCP1304278号</a></li>
+				<li>|</li>
+				<li><a href="#">合子B1.B2-20120004</a></li>
+				<li>|</li>
+				<li><a href="#">营业执照</a></li>
+				<li>|</li>
+				<li><a href="#">互联网药品信息服务资格证</a></li>
+				<li>|</li>
+				<li><a href="#">互联网药品交易服务资格证</a></li>
+			</ul>
+			<p>Copyright@1号网上超市2007-2015，All Rights reserved</p>
+		</div>
+	</body>
+</html>
